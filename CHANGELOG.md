@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-03)
+## Unreleased (2026-08-09)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`a6a322a`](https://github.com/stdlib-js/stdlib/commit/a6a322a60407a3b43eaf765f3a4ce4c37fd022bf) - **docs:** update comments _(by Athan Reines)_
 -   [`a752a62`](https://github.com/stdlib-js/stdlib/commit/a752a625201ea5c0ff3f77544622ebdf3b1fcf4b) - **feat:** add `blas/ext/base/scopy-within` [(#10880)](https://github.com/stdlib-js/stdlib/pull/10880) _(by Muhammad Haris, Athan Reines)_
 
 </details>
